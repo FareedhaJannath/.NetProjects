@@ -1,0 +1,9 @@
+D:\ProofOfCode\Replace\Replace\bin\Debug\Replace.exe.config
+D:\ProofOfCode\Replace\Replace\bin\Debug\Replace.exe
+D:\ProofOfCode\Replace\Replace\bin\Debug\Replace.pdb
+D:\ProofOfCode\Replace\Replace\obj\Debug\Replace.csprojResolveAssemblyReference.cache
+D:\ProofOfCode\Replace\Replace\obj\Debug\Replace.exe
+D:\ProofOfCode\Replace\Replace\obj\Debug\Replace.pdb
+D:\3. AbbVie Projects\16. Dev Ops\Sample-.Net-projects\Replace\Replace\bin\Debug\Replace.exe.config
+D:\3. AbbVie Projects\16. Dev Ops\Sample-.Net-projects\Replace\Replace\obj\Debug\Replace.exe
+D:\3. AbbVie Projects\16. Dev Ops\Sample-.Net-projects\Replace\Replace\obj\Debug\Replace.pdb
